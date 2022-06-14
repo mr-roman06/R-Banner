@@ -1,5 +1,5 @@
-#!Script  author N117R0
-#By Roman Power
+#!Script  author R16166
+#By MR ROMAN
 
 ###################################
 cyan='\e[0;36m'

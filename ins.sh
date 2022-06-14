@@ -1,5 +1,5 @@
 #!data/data/com.termux/files/etc
-#Tool By Roman Power 
+#Tool By MR ROMAN 
 #ThAnKS For Supporting 
 ################
 cyn='\e[0;36m'

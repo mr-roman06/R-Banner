@@ -1,17 +1,17 @@
 <p align="center">
-<a href="https://github.com/romanpower"><img title="R BANNER" src="https://img.shields.io/badge/R%20-- BANNER-SCRIPT?colorA=%23ff8100&colorB=%23017e40&colorC=%23ff0000&style=for-the-badge"></a>
+<a href="https://github.com/mr-roman06"><img title="R BANNER" src="https://img.shields.io/badge/R%20-- BANNER-SCRIPT?colorA=%23ff8100&colorB=%23017e40&colorC=%23ff0000&style=for-the-badge"></a>
 </p>
 <p align="center">
-<a href="https://github.com/romanpower"><img title="Made in INDIA" src="https://img.shields.io/badge/Tool-R BANNER-green.svg"></a>
-<a href="https://github.com/romanpower"><img title="Version" src="https://img.shields.io/badge/Version-1.6-green.svg?style=flat-square"></a>
-<a href="https://github.com/romanpower"><img title="Maintainence" src="https://img.shields.io/badge/Maintained%3F-yes-green.svg"></a>
+<a href="https://github.com/mr-roman06"><img title="Made in INDIA" src="https://img.shields.io/badge/Tool-R BANNER-green.svg"></a>
+<a href="https://github.com/mr-roman06"><img title="Version" src="https://img.shields.io/badge/Version-1.6-green.svg?style=flat-square"></a>
+<a href="https://github.com/mr-roman06"><img title="Maintainence" src="https://img.shields.io/badge/Maintained%3F-yes-green.svg"></a>
 </p>
 <p align="center">
 <a href="https://i.ibb.co/BnrJ0J4/Picsart-22-06-11-20-31-21-946.jpg"><img title="T-load" src="https://i.ibb.co/BnrJ0J4/Picsart-22-06-11-20-31-21-946.jpg"></a>
 </p>
 <p align="center">
-<a href="https://github.com/romanpower"><img title="Github" src="https://img.shields.io/badge/ROMAN POWER-brightgreen?style=for-the-badge&logo=github"></a>
-<a href="https://youtube.com"><img title="YouTube" src="https://img.shields.io/badge/YouTube-ROMAN EHR-red?style=for-the-badge&logo=Youtube"></a>
+<a href="https://github.com/mr-roman06"><img title="Github" src="https://img.shields.io/badge/MR ROMAN-brightgreen?style=for-the-badge&logo=github"></a>
+<a href="https://youtube.com"><img title="YouTube" src="https://img.shields.io/badge/YouTube-MR ROMAN-red?style=for-the-badge&logo=Youtube"></a>
 </p>
 
 
@@ -46,7 +46,7 @@ R-Banner is a bash based script which modifies and changes your terminal from bo
 * `pkg install python2 -y`
 * `pkg install git -y`
 * `pip install lolcat`
-* ` git clone https://github.com/romanpower/R-Banner`
+* ` git clone https://github.com/mr-roman06/R-Banner`
 * `cd $HOME`
 * `ls`
 * `cd R-Banner`
@@ -75,9 +75,9 @@ __TYPE NAME__ :
 __FOLLOW ON__ :
 
 [![Messenger](https://img.shields.io/badge/Chat-Messenger-blue?style=for-the-badge&logo=messenger)](https://www.facebook.com/profile.php?id=100081939950900)
-<a href="https://github.com/romanpower"><img title="Github" src="https://img.shields.io/badge/ROMAN-POWER-brightgreen?style=for-the-badge&logo=github"></a>
+<a href="https://github.com/mr-roman06"><img title="Github" src="https://img.shields.io/badge/MR-ROMAN-brightgreen?style=for-the-badge&logo=github"></a>
 [![Instagram](https://img.shields.io/badge/INSTAGRAM-FOLLOW-red?style=for-the-badge&logo=instagram)](https://www.instagram.com/abdulalmas.06/)
-[![Instagram](https://img.shields.io/badge/WEBSITE-VISIT-yellow?style=for-the-badge&logo=blogger)](https://github.com/romanpower)
+[![Instagram](https://img.shields.io/badge/WEBSITE-VISIT-yellow?style=for-the-badge&logo=blogger)](https://github.com/mr-roman06)
 [![Instagram](https://img.shields.io/badge/LINKEDIN-CONNECT-red?style=for-the-badge&logo=linkedin)](https://rebrand.ly/linkedinprof)
 [![Instagram](https://img.shields.io/badge/FACEBOOK-LIKE-red?style=for-the-badge&logo=facebook)](https://www.facebook.com/profile.php?id=100081939950900)
 [![Instagram](https://img.shields.io/badge/TELEGRAM-CHANNEL-red?style=for-the-badge&logo=telegram)](N)
